@@ -154,7 +154,7 @@ export function Footer() {
           <p>
             &copy; 2026 KStV Ravensberg. Alle Rechte vorbehalten. Website von{" "}
             <a
-              href="https://github.com/yungweng"
+              href="https://github.com/yonnock"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-background transition-colors"
